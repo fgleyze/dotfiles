@@ -1,4 +1,3 @@
-*
-!/.gitignore
-!/.zsrhc
-!/README.md
+!.gitignore
+!.zsrhc
+!README.md
