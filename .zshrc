@@ -199,4 +199,4 @@ function lrqdo-http() {
     TOKEN=$(lrqdo-token "$2")
     http "http://localhost:8080$URL?access_token=$TOKEN"
 }
- 
+

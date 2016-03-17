@@ -1,0 +1,9 @@
+{
+	"passes":
+	[
+		"ReindentSwitchBlocks"
+	],
+	"psr1": true,
+	"psr2": true,
+	"version": 4
+}

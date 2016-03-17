@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CodeFormatter",
+		"GitGutter",
+		"JSON Reindent",
+		"JSON-Template",
+		"Package Control",
+		"Phpcs",
+		"phpfmt",
+		"Sass",
+		"sublime-nunjucks",
+		"SublimeLinter-phpcs",
+		"TrailingSpaces",
+		"Twig"
+	],
+	"repositories":
+	[
+		"https://github.com/andres-risso/sublime-nunjucks.git"
+	]
+}
